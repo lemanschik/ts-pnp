@@ -10,6 +10,8 @@
 ## What?
 This is a Resolve adapter compatible with many existing package managers like npm, pnpm, yarn, pnp compatible package managers.
 
+## Compiler Patch
+- [ ] https://patch-diff.githubusercontent.com/raw/microsoft/TypeScript/pull/35206.patch
 
 ## Installation
 
